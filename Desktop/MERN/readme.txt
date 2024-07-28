@@ -1,5 +1,3 @@
-// phele server folder mein jaa
-then 
 npm init -y
 npm i express
 1. npm run start
