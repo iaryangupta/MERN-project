@@ -1,0 +1,11 @@
+node_modules/
+.env
+build/
+dist/
+*.log
+.DS_Store
+coverage
+readme.txt/
+README.md
+Thumbs.db
+.vscode/
